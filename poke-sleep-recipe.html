@@ -1,1 +1,101 @@
-welcome
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>Poke Sleep Recipe</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&family=Roboto:wght@300&display=swap" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="stylesheet" />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css" rel="stylesheet" />
+  <link href="./poke-sleep/recipe.css" rel="stylesheet" />
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+  <script src="./poke-sleep/recipe.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Poke Sleep Recipe</h1>
+        <div class="row">
+            <form class="material">
+                <div class="twelve columns">
+                    <div class="four columns material-item">
+                        <label for="pokesle_apple">とくせいリンゴ</label>
+                        <input type="number" id="pokesle_apple" class="four columns">
+                    </div>
+                    <div class="four columns material-item">
+                        <label for="pokesle_milk">モーモーミルク</label>
+                        <input type="number" id="pokesle_milk" class="four columns">
+                    </div>
+                    <div class="four columns material-item">
+                        <label for="pokesle_soy">ワカクサ大豆</label>
+                        <input type="number" id="pokesle_soy" class="four columns">
+                    </div>
+                </div>
+                <div class="twelve columns">
+                    <div class="four columns material-item">
+                        <label for="pokesle_syrup">あまいミツ</label>
+                        <input type="number" id="pokesle_syrup" class="four columns">
+                    </div>
+                    <div class="four columns material-item">
+                        <label for="pokesle_soymeat">マメミート</label>
+                        <input type="number" id="pokesle_soymeat" class="four columns">
+                    </div>
+                    <div class="four columns material-item">
+                        <label for="pokesle_ginger">あったかジンジャー</label>
+                        <input type="number" id="pokesle_ginger" class="four columns">
+                    </div>
+                </div>
+                <div class="twelve columns">
+                    <div class="four columns material-item">
+                        <label for="pokesle_tomato">あんみんトマト</label>
+                        <input type="number" id="pokesle_tomato" class="four columns">
+                    </div>
+                    <div class="four columns material-item">
+                        <label for="pokesle_egg">とくせんエッグ</label>
+                        <input type="number" id="pokesle_egg" class="four columns">
+                    </div>
+                    <div class="four columns material-item">
+                        <label for="pokesle_oil">ピュアなオイル</label>
+                        <input type="number" id="pokesle_oil" class="four columns">
+                    </div>
+                </div>
+                <div class="twelve columns">
+                    <div class="four columns material-item">
+                        <label for="pokesle_potato">ほっこりポテト</label>
+                        <input type="number" id="pokesle_potato" class="four columns">
+                    </div>
+                    <div class="four columns material-item">
+                        <label for="pokesle_herb">げきからハーブ</label>
+                        <input type="number" id="pokesle_herb" class="four columns">
+                    </div>
+                    <div class="four columns material-item">
+                        <label for="pokesle_cacao">リラックスカカオ</label>
+                        <input type="number" id="pokesle_cacao" class="four columns">
+                    </div>
+                </div>
+                <div class="twelve columns">
+                    <div class="four columns material-item">
+                        <label for="pokesle_mushroom">あじわいキノコ</label>
+                        <input type="number" id="pokesle_mushroom" class="four columns">
+                    </div>
+                    <div class="four columns material-item">
+                        <label for="pokesle_onion">ふといながねぎ</label>
+                        <input type="number" id="pokesle_onion" class="four columns">
+                    </div>
+                    <div class="four columns material-item">
+                        <label for="pokesle_tail">おいしいシッポ</label>
+                        <input type="number" id="pokesle_tail" class="four columns">
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="row">
+            <select>
+                <option value="curry">カレー・シチュー</option>
+                <option value="salad">サラダ</option>
+                <option value="dessert">ドリンク・デザート</option>
+              </select>
+        </div>
+    </div>
+</body>
+</html>
