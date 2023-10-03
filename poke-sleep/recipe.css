@@ -1,11 +1,27 @@
+/* common */
+.hidden {
+    display: none !important;
+}
+
+/* form material */
 form.material {
-    overflow: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+form.material div.row {
+    display: flex;
+    flex-direction: row;
 }
 
 form.material div.material-item {
     display: inline-flex;
     align-items: center;
     margin-bottom: 12px;
+}
+
+form.material div.material-item:first-child {
+    margin-right: 12px;
 }
 
 form.material div.material-item > input {
@@ -15,4 +31,49 @@ form.material div.material-item > input {
 form.material div.material-item > label {
     margin-right: 12px;
     width: 136px;
+}
+
+/* recipe table */
+.recipe-table {
+    overflow-x: scroll;
+}
+
+table.recipe {
+    border-collapse: collapse;
+    white-space: nowrap;
+}
+
+table.curry tr {
+    background-color: #ffffaa;
+}
+
+table.curry td {
+    background-color: #ffffcc;
+}
+
+table.salad tr {
+    background-color: #ccffaa;
+}
+
+table.salad td {
+    background-color: #ccffcc;
+}
+
+table.dessert tr {
+    background-color: #ffaacc;
+}
+
+table.dessert td {
+    background-color: #ffcccc;
+}
+
+/* media query */
+@media screen and (max-width: 480px) {
+    form.material div.material-item > input {
+        width: 35%;
+    }
+
+    form.material div.material-item:last-child {
+        width: 170px;
+    }
 }
