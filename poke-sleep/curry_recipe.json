@@ -1,0 +1,284 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "name": "とくせんリンゴカレー",
+            "recipe": [
+                {
+                    "material": "とくせんリンゴ",
+                    "value": 7
+                }
+            ],
+            "total": 7,
+            "energy": 668
+        },
+        {
+            "id": 2,
+            "name": "あぶりテールカレー",
+            "recipe": [
+                {
+                    "material": "おいしいシッポ",
+                    "value": 8
+                },
+                {
+                    "material": "げきからハーブ",
+                    "value": 25
+                }
+            ],
+            "total": 33,
+            "energy": 7483
+        },
+        {
+            "id": 3,
+            "name": "サンパワートマトカレー",
+            "recipe": [
+                {
+                    "material": "あんみんトマト",
+                    "value": 10
+                },
+                {
+                    "material": "げきからハーブ",
+                    "value": 5
+                }
+            ],
+            "total": 15,
+            "energy": 1943
+        },
+        {
+            "id": 4,
+            "name": "ぜったいねむりバターカレー",
+            "recipe": [
+                {
+                    "material": "ほっこりポテト",
+                    "value": 18
+                },
+                {
+                    "material": "リラックスカカオ",
+                    "value": 12
+                },
+                {
+                    "material": "あんみんトマト",
+                    "value": 15
+                },
+                {
+                    "material": "モーモーミルク",
+                    "value": 10
+                }
+            ],
+            "total": 55,
+            "energy": 9010
+        },
+        {
+            "id": 5,
+            "name": "からくちネギもりカレー",
+            "recipe": [
+                {
+                    "material": "ふといながねぎ",
+                    "value": 14
+                },
+                {
+                    "material": "あったかジンジャー",
+                    "value": 10
+                },
+                {
+                    "material": "げきからハーブ",
+                    "value": 8
+                }
+            ],
+            "total": 32,
+            "energy": 5900
+        },
+        {
+            "id": 6,
+            "name": "キノコのほうしカレー",
+            "recipe": [
+                {
+                    "material": "あじわいキノコ",
+                    "value": 14
+                },
+                {
+                    "material": "ほっこりポテト",
+                    "value": 9
+                }
+            ],
+            "total": 23,
+            "energy": 4041
+        },
+        {
+            "id": 7,
+            "name": "おやこあいカレー",
+            "recipe": [
+                {
+                    "material": "あまいミツ",
+                    "value": 12
+                },
+                {
+                    "material": "とくせんエッグ",
+                    "value": 8
+                },
+                {
+                    "material": "とくせんリンゴ",
+                    "value": 11
+                },
+                {
+                    "material": "ほっこりポテト",
+                    "value": 4
+                }
+            ],
+            "total": 35,
+            "energy": 4523
+        },
+        {
+            "id": 8,
+            "name": "満腹チーズバーグカレー",
+            "recipe": [
+                {
+                    "material": "モーモーミルク",
+                    "value": 8
+                },
+                {
+                    "material": "マメミート",
+                    "value": 8
+                }
+            ],
+            "total": 16,
+            "energy": 1785
+        },
+        {
+            "id": 9,
+            "name": "ほっこりホワイトシチュー",
+            "recipe": [
+                {
+                    "material": "モーモーミルク",
+                    "value": 10
+                },
+                {
+                    "material": "ほっこりポテト",
+                    "value": 8
+                },
+                {
+                    "material": "あじわいキノコ",
+                    "value": 4
+                }
+            ],
+            "total": 22,
+            "energy": 3089
+        },
+        {
+            "id": 10,
+            "name": "たんじゅんホワイトシチュー",
+            "recipe": [
+                {
+                    "material": "モーモーミルク",
+                    "value": 7
+                }
+            ],
+            "total": 7,
+            "energy": 727
+        },
+        {
+            "id": 11,
+            "name": "マメバーグカレー",
+            "recipe": [
+                {
+                    "material": "マメミート",
+                    "value": 7
+                }
+            ],
+            "total": 7,
+            "energy": 764
+        },
+        {
+            "id": 12,
+            "name": "ベイビィハニーカレー",
+            "recipe": [
+                {
+                    "material": "あまいミツ",
+                    "value": 7
+                }
+            ],
+            "total": 7,
+            "energy": 749
+        },
+        {
+            "id": 13,
+            "name": "ニンジャカレー",
+            "recipe": [
+                {
+                    "material": "ワカクサ大豆",
+                    "value": 15
+                },
+                {
+                    "material": "ふといながねぎ",
+                    "value": 9
+                },
+                {
+                    "material": "マメミート",
+                    "value": 9
+                },
+                {
+                    "material": "あじわいキノコ",
+                    "value": 5
+                }
+            ],
+            "total": 38,
+            "energy": 6159
+        },
+        {
+            "id": 14,
+            "name": "ひでりカツレツカレー",
+            "recipe": [
+                {
+                    "material": "マメミート",
+                    "value": 10
+                },
+                {
+                    "material": "ピュアなオイル",
+                    "value": 5
+                }
+            ],
+            "total": 15,
+            "energy": 1815
+        },
+        {
+            "id": 15,
+            "name": "とけるオムカレー",
+            "recipe": [
+                {
+                    "material": "とくせんエッグ",
+                    "value": 10
+                },
+                {
+                    "material": "あんみんトマト",
+                    "value": 6
+                }
+            ],
+            "total": 16,
+            "energy": 2009
+        },
+        {
+            "id": 16,
+            "name": "ビルドアップマメカレー",
+            "recipe": [
+                {
+                    "material": "ワカクサ大豆",
+                    "value": 12
+                },
+                {
+                    "material": "マメミート",
+                    "value": 6
+                },
+                {
+                    "material": "とくせんエッグ",
+                    "value": 4
+                },
+                {
+                    "material": "げきからハーブ",
+                    "value": 4
+                }
+            ],
+            "total": 26,
+            "energy": 3274
+        }
+    ]
+}

@@ -1,0 +1,292 @@
+{
+    "recipes": [
+        {
+            "id": 17,
+            "name": "ヤドンテールのペッパーサラダ",
+            "recipe": [
+                {
+                    "material": "げきからハーブ",
+                    "value": 10
+                },
+                {
+                    "material": "ピュアなオイル",
+                    "value": 15
+                },
+                {
+                    "material": "おいしいシッポ",
+                    "value": 10
+                }
+            ],
+            "total": 35,
+            "energy": 8165
+        },
+        {
+            "id": 18,
+            "name": "キノコのほうしサラダ",
+            "recipe": [
+                {
+                    "material": "あじわいキノコ",
+                    "value": 17
+                },
+                {
+                    "material": "ピュアなオイル",
+                    "value": 8
+                },
+                {
+                    "material": "あんみんトマト",
+                    "value": 8
+                }
+            ],
+            "total": 33,
+            "energy": 5859
+        },
+        {
+            "id": 19,
+            "name": "ゆきかきシーザーサラダ",
+            "recipe": [
+                {
+                    "material": "モーモーミルク",
+                    "value": 10
+                },
+                {
+                    "material": "マメミート",
+                    "value": 6
+                }
+            ],
+            "total": 16,
+            "energy": 1774
+        },
+        {
+            "id": 20,
+            "name": "くいしんぼうポテトサラダ",
+            "recipe": [
+                {
+                    "material": "ほっこりポテト",
+                    "value": 14
+                },
+                {
+                    "material": "とくせんエッグ",
+                    "value": 9
+                },
+                {
+                    "material": "マメミート",
+                    "value": 7
+                },
+                {
+                    "material": "とくせんリンゴ",
+                    "value": 6
+                }
+            ],
+            "total": 36,
+            "energy": 5040
+        },
+        {
+            "id": 21,
+            "name": "うるおいとうふサラダ",
+            "recipe": [
+                {
+                    "material": "ワカクサ大豆",
+                    "value": 10
+                },
+                {
+                    "material": "あんみんトマト",
+                    "value": 6
+                }
+            ],
+            "total": 16,
+            "energy": 1843
+        },
+        {
+            "id": 22,
+            "name": "ばかぢからワイルドサラダ",
+            "recipe": [
+                {
+                    "material": "マメミート",
+                    "value": 9
+                },
+                {
+                    "material": "あったかジンジャー",
+                    "value": 6
+                },
+                {
+                    "material": "とくせんエッグ",
+                    "value": 5
+                },
+                {
+                    "material": "ほっこりポテト",
+                    "value": 3
+                }
+            ],
+            "total": 23,
+            "energy": 2958
+        },
+        {
+            "id": 23,
+            "name": "マメハムサラダ",
+            "recipe": [
+                {
+                    "material": "マメミート",
+                    "value": 8
+                }
+            ],
+            "total": 8,
+            "energy": 873
+        },
+        {
+            "id": 24,
+            "name": "あんみんトマトサラダ",
+            "recipe": [
+                {
+                    "material": "あんみんトマト",
+                    "value": 8
+                }
+            ],
+            "total": 8,
+            "energy": 933
+        },
+        {
+            "id": 25,
+            "name": "モーモーカプレーゼ",
+            "recipe": [
+                {
+                    "material": "モーモーミルク",
+                    "value": 12
+                },
+                {
+                    "material": "あんみんトマト",
+                    "value": 6
+                },
+                {
+                    "material": "ピュアなオイル",
+                    "value": 5
+                }
+            ],
+            "total": 23,
+            "energy": 2856
+        },
+        {
+            "id": 26,
+            "name": "ムラっけチョコミートサラダ",
+            "recipe": [
+                {
+                    "material": "リラックスカカオ",
+                    "value": 14
+                },
+                {
+                    "material": "マメミート",
+                    "value": 9
+                }
+            ],
+            "total": 23,
+            "energy": 3558
+        },
+        {
+            "id": 27,
+            "name": "オーバーヒートサラダ",
+            "recipe": [
+                {
+                    "material": "げきからハーブ",
+                    "value": 17
+                },
+                {
+                    "material": "あったかジンジャー",
+                    "value": 10
+                },
+                {
+                    "material": "あんみんトマト",
+                    "value": 8
+                }
+            ],
+            "total": 35,
+            "energy": 5225
+        },
+        {
+            "id": 28,
+            "name": "とくせんリンゴサラダ",
+            "recipe": [
+                {
+                    "material": "とくせんリンゴ",
+                    "value": 8
+                }
+            ],
+            "total": 8,
+            "energy": 763
+        },
+        {
+            "id": 29,
+            "name": "めんえきねぎサラダ",
+            "recipe": [
+                {
+                    "material": "あったかジンジャー",
+                    "value": 5
+                },
+                {
+                    "material": "ふといながねぎ",
+                    "value": 10
+                }
+            ],
+            "total": 15,
+            "energy": 2658
+        },
+        {
+            "id": 30,
+            "name": "メロメロりんごのチーズサラダ",
+            "recipe": [
+                {
+                    "material": "とくせんリンゴ",
+                    "value": 15
+                },
+                {
+                    "material": "モーモーミルク",
+                    "value": 5
+                },
+                {
+                    "material": "ピュアなオイル",
+                    "value": 3
+                }
+            ],
+            "total": 23,
+            "energy": 2578
+        },
+        {
+            "id": 31,
+            "name": "ニンジャサラダ",
+            "recipe": [
+                {
+                    "material": "あったかジンジャー",
+                    "value": 11
+                },
+                {
+                    "material": "ワカクサ大豆",
+                    "value": 15
+                },
+                {
+                    "material": "あじわいキノコ",
+                    "value": 12
+                },
+                {
+                    "material": "ふといながねぎ",
+                    "value": 15
+                }
+            ],
+            "total": 53,
+            "energy": 10095
+        },
+        {
+            "id": 32,
+            "name": "ねっぷうとうふサラダ",
+            "recipe": [
+                {
+                    "material": "げきからハーブ",
+                    "value": 6
+                },
+                {
+                    "material": "ワカクサ大豆",
+                    "value": 10
+                }
+            ],
+            "total": 16,
+            "energy": 1976
+        }
+    ]
+}
