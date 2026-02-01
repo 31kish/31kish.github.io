@@ -5,7 +5,7 @@ import path from "node:path";
 export default {
   // Config options...
   // Server-side render by default, to enable SPA mode set this to `false`
-  basename: import.meta.env.PROD ? '/31kish.github.io/' : '/',
+  // basename: import.meta.env.PROD ? '/31kish.github.io/' : '/',
   async buildEnd(args): Promise<void> {
     if (!args.viteConfig.isProduction) return;
     const buildPath = args.viteConfig.build.outDir;
