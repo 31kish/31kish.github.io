@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "iOS 観光向けアプリ",
+    "description": "地域行事の紹介、マップを利用した観光案内アプリ\n開発からTestflightを利用した社内テスト、AppStoreへの公開を担当",
+    "tech": ["iOS", "Objective-C"],
+    "logo": "phone"
+  },
+  {
+    "id": 2,
+    "title": "iOS ゲームアプリ",
+    "description": "シンプルなゲームアプリの企画・開発を担当",
+    "tech": ["iOS", "Objective-C"],
+    "logo": "phone"
+  },
+  {
+    "id": 3,
+    "title": "クラウドファンディング向けアプリ",
+    "description": "投資の申し込み、収益管理アプリの開発を担当",
+    "tech": ["iOS", "Swift"],
+    "logo": "phone"
+  },
+  {
+    "id": 4,
+    "title": "車両管理クロスプラットフォームアプリ",
+    "description": "車両管理アプリの開発、AppStoreへの公開を担当",
+    "tech": ["iOS", "C#", "Unity"],
+    "logo": "phone"
+  },
+  {
+    "id": 5,
+    "title": "保育園向け請求管理システム",
+    "description": "開発、コードレビュー、運用保守を担当\nBitbucket Pipelinesを利用した自動デプロイの構築、AWSを利用したシステム構築を担当",
+    "tech": ["Ruby", "Ruby on Rails", "MySQL", "AWS ECS"],
+    "logo": "rails"
+  },
+  {
+    "id": 6,
+    "title": "建設業向け工程・顧客管理システム",
+    "description": "開発、コードレビューを担当\n自動デプロイやAWSを利用したシステム構築を担当",
+    "tech": ["PHP", "Laravel", "MySQL", "AWS ECS"],
+    "logo": "laravel"
+  },
+  {
+    "id": 7,
+    "title": "AI文字起こしWebサービス",
+    "description": "開発、コードレビューを担当\n自動デプロイやAWSを利用したシステム構築を担当",
+    "tech": ["Ruby", "Ruby on Rails", "MySQL", "AWS EB"],
+    "logo": "rails"
+  }
+]
