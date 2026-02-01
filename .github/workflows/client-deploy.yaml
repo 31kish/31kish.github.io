@@ -5,6 +5,10 @@ on:
     branches:
       - master
 
+defaults:
+  run:
+    working-directory: src
+
 permissions:
   contents: read
   pages: write
